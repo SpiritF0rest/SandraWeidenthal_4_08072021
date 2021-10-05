@@ -29,6 +29,16 @@ p span {
 }
 /* End of changes */
 
+/* Images size def */
+.logo_img {
+    height: 40px;
+    width: max-content;
+}
+.center-block {
+    height: 100px;
+    width: max-content;
+}
+/* End */
 a,
 button {
     transition: all .3s ease-in-out;
