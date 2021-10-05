@@ -353,7 +353,7 @@ a:hover {
 
 .nav > li {
     float: left;
-    margin-top: 4px;
+    margin: 10px;
     font-size: 16px;
 }
 
@@ -395,7 +395,7 @@ a:hover {
     .site-navigation {
         position: absolute;
         top: 50%;
-        right: 20px;
+        right: 10rem;
         transform: translate(0, -50%);
         -webkit-transform: translateY(-50%);
     }
@@ -811,7 +811,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #ffb18d;
 }
 
 .tc-white {
@@ -1085,7 +1085,7 @@ h4 {
         margin: auto 0.5rem;
     }
     .row {
-        margin-right: 0;
-        margin-left: 0;
+        margin-right: auto;
+        margin-left: auto;
     }
 }
