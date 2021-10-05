@@ -34,11 +34,28 @@ p span {
     height: 40px;
     width: max-content;
 }
-.center-block {
+.animal-logo {
     height: 100px;
     width: max-content;
 }
 /* End */
+
+/* Page and blocks centering */
+.page-container_contact {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.bloc_contact, #bloc-6 {
+    width: auto!important;
+}
+#bloc-6 {
+    text-align: center;
+}
+.bloc-lg {
+    margin: auto;
+}
+/* End */
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -341,7 +358,6 @@ a:hover {
 }
 
 .navbar-brand img {
-    max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
 }
