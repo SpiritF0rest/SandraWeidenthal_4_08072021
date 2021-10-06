@@ -56,6 +56,15 @@ p span {
 }
 /* End */
 
+/* For last h2 Contrast */
+.contrast-opt {
+    background: #303030;
+    width: 100%;
+    margin: auto;
+    padding: 1rem;
+}
+/* End */
+
 a,
 button {
     transition: all .3s ease-in-out;
